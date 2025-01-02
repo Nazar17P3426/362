@@ -1,2 +1,2 @@
 # 362
-C++ short GDI trojan by yedb0y33k
+made by yedb0y33k
